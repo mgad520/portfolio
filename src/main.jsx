@@ -52,12 +52,10 @@ const skills = [
   "React",
   "Node.js",
   "Express",
-  "PostgreSQL",
   "JavaScript",
-  "Flutter",
   "UI/UX",
   "Product Thinking",
-  "Cybersecurity",
+  "Error Debugging",
 ];
 
 const languages = [
@@ -218,7 +216,6 @@ function App() {
             </div>
           </div>
         </section>
-
         <section id="work" className="work section">
   <div className="sectionHead">
     <Reveal>
@@ -348,13 +345,13 @@ function App() {
             <div className="contactMeta">
               <span>Open to interesting projects, collaborations & ideas.</span>
               <div className="socials">
-                <a href="#" aria-label="GitHub">
+                <a href="https://github.com/mgad520" aria-label="GitHub">
                   <Github size={19} />
                 </a>
                 <a href="#" aria-label="LinkedIn">
                   <Linkedin size={19} />
                 </a>
-                <a href="mailto:hello@gad.dev" aria-label="Email">
+                <a href="mailto:mgadlocal@gmail.com" aria-label="Email">
                   <Mail size={19} />
                 </a>
               </div>
