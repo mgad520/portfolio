@@ -180,7 +180,7 @@ function App() {
 
     <div className="heroBottom">
       <p>
-        I'm <strong>Mugisha Alex Gad</strong> — a software
+        I'm <strong> Mugisha Alex Gad</strong> — a software
         developer, product builder and entrepreneur turning
         ideas into useful digital experiences.
       </p>
